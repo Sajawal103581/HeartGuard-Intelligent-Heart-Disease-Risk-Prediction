@@ -77,6 +77,3 @@ Add results measured on test data that was not used for training.
 
 Contributions are welcome. Open an issue to discuss a change, or submit a pull request.
 
-## License
-
-_[Add your chosen license]_
